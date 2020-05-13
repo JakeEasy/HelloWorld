@@ -1,0 +1,15 @@
+body{
+    margin:0;
+    padding:0;
+}
+
+.imageContainer{
+    display:flex;
+    margin: 0 auto 0 auto;
+}
+
+.headerImage{
+    
+    width:80%;
+    margin: 0 auto 0 auto;
+}
